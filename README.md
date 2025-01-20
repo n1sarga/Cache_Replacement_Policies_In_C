@@ -5,4 +5,4 @@
 2. First-In-First-Out (FIFO)
 3. Random Replacement (RR)
 
-Language Used: ![C](https://img.shields.io/badge/language-C-blue)
+![C](https://img.shields.io/badge/language-C-blue)
